@@ -1,0 +1,11 @@
+$ tree --dirsfirst
+.
+├── pyimagesearch
+│   ├── motion_detection
+│   │   ├── __init__.py
+│   │   └── singlemotiondetector.py
+│   └── __init__.py
+├── templates
+│   └── index.html
+└── webstreaming.py
+3 directories, 5 files
